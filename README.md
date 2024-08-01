@@ -1,10 +1,10 @@
 ## About me 
 * I'm passionate about open software, cybersecurity, networking and system control. <br>
-* Currently pursuing my Engineer degree in Automatic Control and Robotics.
+* Currently pursuing my Bachelor degree in Automatic Control and Robotics.
 * Linux user
-* Big fan of scripting 
+* Big fan of scripting and Vim 
 <details>
-  <summary> Software/languages I have experience with:</summary>
+  <summary> Software/languages I have the most experience with:</summary>
   
   | Rank | Technology|
   | ----:|-----------|
