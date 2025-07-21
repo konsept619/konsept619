@@ -1,6 +1,7 @@
 ## About me 
 * I'm passionate about open software, cybersecurity, networking and system control. <br>
-* Currently pursuing my Bachelor degree in Automatic Control and Robotics.
+* Bachelor's degree in Automatic Control and Robotics.
+* DevOps in cloud team
 * Linux user
 * Big fan of scripting and Vim 
 <details>
