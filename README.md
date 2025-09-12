@@ -1,9 +1,13 @@
-## About me 
-* I'm passionate about open software, cybersecurity, networking and system control. <br>
+## :bust_in_silhouette: About me 
+* I'm passionate about open software, cybersecurity, administration and system control. <br>
 * Bachelor's degree in Automatic Control and Robotics.
-* DevOps in cloud team
+* DevOps in Cloud Team
 * Linux user
-* Big fan of scripting and Vim 
+* Big fan of scripting and automation
+
+## :dart: Current goals 
+I'm imporivng skills related to containerisation and hope to master observability stack. 
+<!--
 <details>
   <summary> Software/languages I have the most experience with:</summary>
   
@@ -15,12 +19,11 @@
   |     4| OpenCV    |
   |     5| Matlab    |
   
-  
-  
+
   
 </details>
 
-
+-->
 
 
 <!--
