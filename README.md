@@ -1,8 +1,9 @@
 ## :bust_in_silhouette: About me 
-* I'm passionate about open software, cybersecurity, administration and system control. <br>
+* I'm passionate about open software, cybersecurity and system control.
 * Bachelor's degree in Automatic Control and Robotics.
+* Currently pursuing my master's degree in Computer Science
 * DevOps in Cloud Team
-* Linux user
+* Linux enthusiast
 * Big fan of scripting and automation
 
 ## :dart: Current goals 
