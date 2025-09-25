@@ -8,6 +8,9 @@
 
 ## :dart: Current goals 
 I'm imporivng skills related to containerisation and hope to master observability stack. 
+
+## :pencil: Focus area
+For now public projects and repositories on my profile function as proof of work. Which means I've never developed a project that wasn't valuable for me.  Hopefully, one day someone find them useful for their use cases too. 
 <!--
 <details>
   <summary> Software/languages I have the most experience with:</summary>
