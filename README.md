@@ -13,7 +13,8 @@ I bridge the gap between low-level system control and high-level cloud infrastru
 ### 🛠️ Tech Stack & Tools
 **Cloud & DevOps:**
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 <!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) -->
 
@@ -22,6 +23,11 @@ I bridge the gap between low-level system control and high-level cloud infrastru
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/Matlab-%23ED1967.svg?style=flat&logo=MathWorks&logoColor=white)
+
+**Environment & OS:**
+![Fedora](https://img.shields.io/badge/Fedora--purple?style=social&labelColor=purple&logo=fedora)
+![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)
 
 ---
 
