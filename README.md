@@ -15,6 +15,7 @@ I bridge the gap between low-level system control and high-level cloud infrastru
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Gitlab](https://img.shields.io/static/v1?label=GitLab&message=CI/CD&color=FC6D26&style=flat&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 <!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) -->
 
@@ -26,7 +27,7 @@ I bridge the gap between low-level system control and high-level cloud infrastru
 
 **Environment & OS:**
 ![Fedora](https://img.shields.io/badge/Fedora--purple?style=social&labelColor=purple&logo=fedora)
-![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)
 
 ---
