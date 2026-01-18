@@ -5,7 +5,7 @@ I bridge the gap between low-level system control and high-level cloud infrastru
 
 * 🛠️ Currently working as a **DevOps in a Cloud Team**.
 * 🎓 Pursuing an **M.Sc. in Computer Science** (B.Sc. in Automatic Control and Robotics).
-* 🐧 Linux enthusiast & automation advocate.
+* 🐧 Linux enthusiast & automation practitioner.
 * 🛡️ Passionate about Cybersecurity and Open Source.
 
 ---
